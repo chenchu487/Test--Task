@@ -7,7 +7,7 @@
 }
 
 body {
-    /* background: radial-gradient(circle, #fb3fdc 0%, #46dbfc 100%); */
+    background: radial-gradient(circle, #fb3fdc 0%, #46dbfc 100%);
     height: 100vh;
     display: flex;
     align-items: center;
@@ -31,7 +31,7 @@ body {
         display: flex;
         align-items: center;
         justify-content: center;
-        background: radial-gradient(circle, #fb3fdc 0%, #46dbfc 100%);
+        /* background: radial-gradient(circle, #fb3fdc 0%, #46dbfc 100%); */
 
 
         .To-do-Container {

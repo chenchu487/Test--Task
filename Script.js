@@ -4,6 +4,8 @@
 const todoInput = document.querySelector('.To-do-Input');
 const todoAddButton = document.querySelector('.To-do-Add-Button');
 const todoList = document.querySelector('.To-do-List');
+const clearButton = document.querySelector('.To-do-Clear-Button');
+
 
 // Add Task
 
